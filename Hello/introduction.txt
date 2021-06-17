@@ -1,0 +1,3 @@
+Hello, my name is Eashan Kaushik.
+I am an incoming student at Tandon School of Engineering, Masters in Computer Science program.
+I am an aspiring Data Scientist, and want to learn various details about exploring, manipulating and analysing data.
